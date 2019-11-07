@@ -408,8 +408,8 @@
             "name" : "Satoshi Nakamoto",
             "link" : ""
         },
-        "unknown": {
-            "name" : "fake unknown",
+        "Mario": {
+            "name" : "fake mario",
             "link" : ""
         },
         "Unknown": {
